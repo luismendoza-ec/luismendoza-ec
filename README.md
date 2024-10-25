@@ -1,8 +1,8 @@
 ## Hi there 👋  
 ### I'm [Luis Mendoza](https://scraplay.com)!  
 > Scraplay - Explore · Scrape · Lead
-
 ---
+![Coding](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2l1NHppczhvNGkyeXZ4MGdlZTJrdmt3ZGloOTVvNm40Y2MyaGFmNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qqDVCetD9mhYLyoies/giphy.gif)
 
 ![](https://komarev.com/ghpvc/?username=luismendoza-ec&base=1226&style=flat)  
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/luismendoza-ec)  

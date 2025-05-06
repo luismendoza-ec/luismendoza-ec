@@ -26,7 +26,7 @@ You might not find tons of public code here just yet; I’ve been working on a l
 - A high-demand indexing API.
 - TypeWar (an amazing 2D game developed with Godot): [TypeWar in Itch.io](https://luismendoza-ec.itch.io/typewar)
 - Particle Life Prototype (An emergent systems simulator written with pure JS): [ParticleLife in Itch.io](https://luismendoza-ec.itch.io/particles-life-prototype)
-- Lu8 (My own retro fantasy console): [Lu8 in Itch.io](https://luismendoza-ec.itch.io/lu8) [Lu8 website](https://lu8.dev)
+- Lu8 (My own retro fantasy console): [Lu8 in Itch.io](https://luismendoza-ec.itch.io/lu8)  |  [Lu8 website](https://lu8.dev)
 - Plus a few other private projects I’m supporting.
 
 ## Contact Me

@@ -1,6 +1,6 @@
 ## Hi there 👋  
 ### I'm [Luis Mendoza](https://scraplay.com)!  
-> Scraplay - Explore · Scrape · Lead
+> Scraplay - We build software that actually works!.
 ---
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2l1NHppczhvNGkyeXZ4MGdlZTJrdmt3ZGloOTVvNm40Y2MyaGFmNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qqDVCetD9mhYLyoies/giphy.gif" alt="Coding GIF"/>
@@ -22,12 +22,17 @@ I see programming as both an art and a bit of magic. If you’re looking for som
 You might not find tons of public code here just yet; I’ve been working on a lot of private projects. But I’ll be sharing more with the community soon—stuff that could be handy for a lot of folks.
 
 ## Currently Working On
-- Custom scraping services.
-- A high-demand indexing API.
-- TypeWar (an amazing 2D game developed with Godot): [TypeWar in Itch.io](https://luismendoza-ec.itch.io/typewar)
-- Particle Life Prototype (An emergent systems simulator written with pure JS): [ParticleLife in Itch.io](https://luismendoza-ec.itch.io/particles-life-prototype)
-- Lu8 (My own retro fantasy console): [Lu8 in Itch.io](https://luismendoza-ec.itch.io/lu8)  |  [Lu8 website](https://lu8.dev)
-- Plus a few other private projects I’m supporting.
+
+* Custom scraping services
+* Ongoing private client engagements
+* Scraplay products (active focus)
+  * KEOCards — [keocards.app](https://keocards.app)
+  * Jobdit — [jobdit.co](https://jobdit.co)
+  * TimeGrid — [timegrid.dev](https://timegrid.dev)
+* Personal / hobby projects
+  * TypeWar — [TypeWar on Itch.io](https://luismendoza-ec.itch.io/typewar)
+  * Particle Life Prototype — [ParticleLife on Itch.io](https://luismendoza-ec.itch.io/particles-life-prototype)
+  * Lu8 — [Lu8 on Itch.io](https://luismendoza-ec.itch.io/lu8) · [lu8.dev](https://try.lu8.dev)
 
 ## Contact Me
 Email: luis.mendoza@scraplay.com  
